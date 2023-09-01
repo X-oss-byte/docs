@@ -1,5 +1,5 @@
 ---
-title: Site policy documentation
+title: Site policy documentation 
 shortTitle: Site policy
 redirect_from:
   - /categories/61/articles
